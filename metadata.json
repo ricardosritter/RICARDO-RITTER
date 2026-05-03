@@ -1,0 +1,8 @@
+{
+  "name": "Serviço de Campo - Pioneiro",
+  "description": "Relatório de serviço de campo para pioneiros com GPS, metas e compartilhamento via WhatsApp.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}

@@ -1,0 +1,16 @@
+{
+  "short_name": "Campo",
+  "name": "Serviço de Campo Pioneiro",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3652/3652191.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a73e8",
+  "background_color": "#f0f2f5"
+}
